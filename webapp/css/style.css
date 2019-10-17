@@ -1,0 +1,12 @@
+/* Enter your custom styles here */
+
+.marginAll {
+    margin: 5px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
